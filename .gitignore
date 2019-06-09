@@ -94,3 +94,5 @@ modules.xml
 
 **/dist
 **/public/dist
+
+**/node_modules/*
