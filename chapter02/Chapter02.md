@@ -1,4 +1,4 @@
-#chapter02
+# chapter02
 * __Git__
  
    [Github](https://git-scm.com)에서 운영체제에 맞는 설치 파일과 방법을 찾을 수 있다고 합니다.
